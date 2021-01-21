@@ -1,4 +1,4 @@
-Features:
+App Features:
 
 🔶 Todo List is a Web App
 🔶 You can Add tasks
